@@ -2,3 +2,5 @@
 learning in geekbrains
 
 Моё обучение в geekbrains контроль версий
+
+первый commit
